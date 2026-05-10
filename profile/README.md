@@ -20,7 +20,3 @@ PahVender esta orientado a equipos comerciales, lideres de ventas y operaciones 
 - Grupo: PahVenture
 - Sitio publico: pendiente de publicacion
 - Contacto: pendiente de publicacion
-
-## Sobre Este GitHub
-
-Este perfil publico existe para identificar oficialmente a PahVender en GitHub. Los repositorios operativos, datos comerciales y codigo fuente de produccion son privados.
